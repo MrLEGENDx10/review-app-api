@@ -1,22 +1,24 @@
-# Contributing to Review App API
+# Contributing to the Review App API
 
-Thank you for your interest in contributing to the Review App API! We
-appreciate your support and welcome your contributions to help enhance and
-improve the project. Please read through the following guidelines to get
-started.
+Thank you for your interest in contributing to the Review App API!
+We appreciateyour support and welcome your contributions to help enhance
+and improve the project. Please read through the following guidelines to
+get started.
 
 ## Table of Contents
-- [Prerequisites](#prerequisites)
-- [Contributing Guidelines](#contributing-guidelines)
-- [Setting Up the Development Environment](#setting-up-the-development-environment)
-- [Submitting a Pull Request (PR)](#submitting-a-pull-request-pr)
-- [Code of Conduct](#code-of-conduct)
+- [Contributing to the Review App API](#contributing-to-the-review-app-api)
+  - [Table of Contents](#table-of-contents)
+  - [Prerequisites](#prerequisites)
+  - [Contributing Guidelines](#contributing-guidelines)
+  - [Setting Up the Development Environment](#setting-up-the-development-environment)
+  - [Submitting a Pull Request (PR)](#submitting-a-pull-request-pr)
+  - [Code of Conduct](#code-of-conduct)
 
 ## Prerequisites
 
-Before you begin contributing to the backend of the Review App, please ensure
-you have the following prerequisites installed and configured on your local
-machine:
+Before you begin contributing to the backend of the Review App, please 
+ensure you have the following prerequisites installed and configured on 
+your local machine:
 
 - Docker: To set up and manage the development environment.
 - Git: To clone and manage the project repository.
@@ -90,7 +92,7 @@ To set up the development environment locally, follow these steps:
    ```
 
 4. Copy the `.env.example` file to `.env.local` and configure the following
-	 environment variables in the `.env.local` file:
+ environment variables in the `.env.local` file:
 
    ```env
    DATABASE_URL=postgresql://postgres:password@localhost:5432/review
@@ -123,7 +125,8 @@ review it.
 ## Code of Conduct
 
 Please be aware that we have a [Code of Conduct](CODE_OF_CONDUCT.md) that all
-contributors are expected to follow. Please read and adhere to it throughout
+contributors are expected to follow. Please read and adhere to it throughout 
 your contribution journey.
 
-We appreciate your contributions and look forward to collaborating with you to improve the Review App API!
+We appreciate your contributions and look forward to collaborating with you to
+improve the Review App API!
